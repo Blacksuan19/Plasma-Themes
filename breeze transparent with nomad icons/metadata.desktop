@@ -1,0 +1,20 @@
+[ContrastEffect]
+contrast=0.2
+enabled=false
+intensity=2.0
+saturation=1.7
+
+[Desktop Entry]
+Icon=application-x-desktop
+Name=Breeze Transparent with Nomad icons
+X-KDE-PluginInfo-Author=David Edmundson adn Fabián Alexis. This fork: madkita
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=plasma-desktop
+X-KDE-PluginInfo-Email=abubakaryagob@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-Name=breeze-antu
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://plasma.kde.org
+X-Plasma-API=5.0
+comment=\sAnd transparent and clear theme for Plasma 5, inspired by Breeze Transparent and the icons of nomad desktop
