@@ -1,1 +1,28 @@
-# breeze transparent theme with icons from nomad project
+## breeze transparent theme with icons from nomad project
+default kde breeze theme without shadows and a lil bit of transparency and nomad project icons (great mix!!).
+
+## Installation:
+
+#### from source:
+- `https://github.com/Madkita/Plasma-Themes.git`
+- `cd Plasma-Themes`
+- `cp -r Breeze-No-Shadows-With-Antu-Icons $HOME/.local/share/plasma/desktoptheme/`
+- go to settings > workspace theme > desktop theme and apply the theme
+
+## Screenshots:
+
+Panel:
+
+![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/breeze%20transparent%20with%20nomad%20icons/Screenshots/Screenshot_20180104_085558.png)
+
+Widgets:
+
+![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/breeze%20transparent%20with%20nomad%20icons/Screenshots/Screenshot_20180104_085539.png)
+
+Simple Menu:
+
+![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/breeze%20transparent%20with%20nomad%20icons/Screenshots/Screenshot_20180104_085645.png)
+
+
+##### Credit:
+- nomad project for panel icons.
