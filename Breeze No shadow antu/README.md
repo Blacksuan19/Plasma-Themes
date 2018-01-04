@@ -21,7 +21,6 @@ default kde breeze theme without panel shadows and with icons from antu icon the
 Panel:
 
 ![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/Breeze%20No%20shadow%20antu/Screenshots/Screenshot_20171208_163309.png)
-<!-- https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/Breeze%20No%20shadow%20antu/Screenshots/Screenshot_20171208_163309.png -->
 
 Widgets:
 
