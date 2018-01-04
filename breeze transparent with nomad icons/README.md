@@ -6,7 +6,7 @@ default kde breeze theme without shadows and a lil bit of transparency and nomad
 #### from source:
 - `https://github.com/Madkita/Plasma-Themes.git`
 - `cd Plasma-Themes`
-- `cp -r Breeze-No-Shadows-With-Antu-Icons $HOME/.local/share/plasma/desktoptheme/`
+- `cp -r breeze transparent with nomad icons $HOME/.local/share/plasma/desktoptheme/`
 - go to settings > workspace theme > desktop theme and apply the theme
 
 ## Screenshots:
