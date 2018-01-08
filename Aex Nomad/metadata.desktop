@@ -1,0 +1,20 @@
+[ContrastEffect]
+contrast=0.2
+enabled=false
+intensity=2.0
+saturation=1.7
+
+[Desktop Entry]
+Icon=application-x-desktop
+Name=Aex Nomad
+X-KDE-PluginInfo-Author=madkita
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=plasma-desktop
+X-KDE-PluginInfo-Email=abubakaryagob@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-Name=Aex Nomad
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://plasma.kde.org
+X-Plasma-API=5.0
+comment=\s half transparent rounded corners shadowed macOS looking like theme

@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   height="21"
+   version="1.0"
+   width="21"
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="toolbar.svg"
+   viewBox="0 0 21 21">
+  <defs
+     id="defs98" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     inkscape:document-units="px"
+     id="namedview96"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="2.3694581"
+     inkscape:cx="11"
+     inkscape:cy="21.939999"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     id="hint-tile-center"
+     height="45"
+     y="116.12"
+     x="46.637001"
+     width="45"
+     style="opacity:0.875" />
+  <rect
+     id="south-active-tab-hint-left-margin"
+     height="5"
+     y="36"
+     x="-107"
+     width="5" />
+  <rect
+     id="south-active-tab-hint-right-margin"
+     y="36"
+     width="5"
+     x="-37"
+     height="5" />
+  <rect
+     id="south-active-tab-hint-top-margin"
+     height="5"
+     y="34"
+     x="-71"
+     width="5" />
+  <rect
+     id="south-active-tab-hint-bottom-margin"
+     y="46"
+     width="5"
+     x="-71"
+     height="5" />
+  <rect
+     id="east-active-tab-hint-bottom-margin"
+     transform="rotate(-90)"
+     y="19.415001"
+     width="5"
+     x="6.3013"
+     height="5" />
+  <rect
+     id="east-active-tab-hint-top-margin"
+     transform="rotate(-90)"
+     height="5"
+     y="19.415001"
+     x="100.3"
+     width="5" />
+  <rect
+     id="east-active-tab-hint-left-margin"
+     transform="rotate(-90)"
+     y="8"
+     width="5"
+     x="60"
+     height="5" />
+  <rect
+     id="east-active-tab-hint-right-margin"
+     transform="rotate(-90)"
+     height="5"
+     y="28.415001"
+     x="60.542999"
+     width="5" />
+  <rect
+     id="west-active-tab-hint-top-margin"
+     transform="rotate(90)"
+     y="182"
+     width="5"
+     x="-105"
+     height="5" />
+  <rect
+     id="west-active-tab-hint-bottom-margin"
+     transform="rotate(90)"
+     height="5"
+     y="179"
+     x="-11"
+     width="5" />
+  <rect
+     id="west-active-tab-hint-right-margin"
+     transform="rotate(90)"
+     y="175"
+     width="5"
+     x="-51.758999"
+     height="5" />
+  <rect
+     id="west-active-tab-hint-left-margin"
+     transform="rotate(90)"
+     height="5"
+     y="187"
+     x="-51.758999"
+     width="5" />
+  <rect
+     id="rect3437"
+     transform="scale(-1)"
+     height="12"
+     y="146"
+     x="109"
+     width="10"
+     style="opacity:0.01000001" />
+  <rect
+     id="rect3435"
+     transform="scale(-1)"
+     y="158"
+     width="10"
+     x="109"
+     height="4"
+     style="opacity:0.01000001" />
+  <rect
+     id="rect3431"
+     transform="scale(-1)"
+     height="4"
+     y="158"
+     x="19"
+     width="10"
+     style="opacity:0.01000001" />
+  <rect
+     id="north-focus-hint-right-margin"
+     transform="scale(-1)"
+     height="5"
+     y="149"
+     x="20"
+     width="5" />
+  <rect
+     id="north-focus-hint-left-margin"
+     transform="scale(-1)"
+     y="149"
+     width="5"
+     x="114"
+     height="5" />
+  <rect
+     id="north-focus-hint-bottom-margin"
+     transform="scale(-1)"
+     height="5"
+     y="142"
+     x="73.240997"
+     width="5" />
+  <rect
+     id="north-focus-hint-top-margin"
+     transform="scale(-1)"
+     y="158"
+     width="5"
+     x="73.240997"
+     height="5" />
+  <g
+     id="north-active-tab-bottom"
+     transform="translate(153,-1022.4)">
+    <g
+       id="g4140">
+      <rect
+         id="rect4142"
+         transform="translate(0,1027.4)"
+         y="20"
+         width="15"
+         x="5"
+         height="2"
+         style="fill-opacity:0" />
+      <rect
+         id="rect4144"
+         height="3"
+         y="1049.4"
+         x="5"
+         width="15"
+         style="fill:#58b7ee" />
+    </g>
+  </g>
+  <g
+     id="north-active-tab-bottomright"
+     transform="matrix(0.33333,0,0,1,171.33,-1022.4)">
+    <g
+       id="g4148">
+      <rect
+         id="rect4150"
+         height="2"
+         y="20"
+         x="5"
+         width="15"
+         transform="translate(0,1027.4)"
+         style="fill-opacity:0" />
+      <rect
+         id="rect4152"
+         y="1049.4"
+         width="6"
+         x="5"
+         height="3"
+         style="fill:#58b7ee" />
+    </g>
+  </g>
+  <g
+     id="north-active-tab-bottomleft"
+     transform="matrix(-0.33333,0,0,1,159.67,-1022.4)">
+    <g
+       id="g4156">
+      <rect
+         id="rect4158"
+         transform="translate(0,1027.4)"
+         y="20"
+         width="15"
+         x="5"
+         height="2"
+         style="fill-opacity:0" />
+      <rect
+         id="rect4160"
+         height="3"
+         y="1049.4"
+         x="5"
+         width="6"
+         style="fill:#58b7ee" />
+    </g>
+  </g>
+  <rect
+     id="north-active-tab-topleft"
+     y="5"
+     width="5"
+     x="153"
+     height="5"
+     style="fill-opacity:0" />
+  <rect
+     id="north-active-tab-topright"
+     height="5"
+     y="5"
+     x="173"
+     width="5"
+     style="fill-opacity:0" />
+  <rect
+     id="north-active-tab-top"
+     y="5"
+     width="15"
+     x="158"
+     height="5"
+     style="fill-opacity:0" />
+  <rect
+     id="north-active-tab-left"
+     y="10"
+     width="5"
+     x="153"
+     height="15"
+     style="fill-opacity:0" />
+  <rect
+     id="north-active-tab-right"
+     y="10"
+     width="5"
+     x="173"
+     height="15"
+     style="fill-opacity:0" />
+  <rect
+     id="north-active-tab-center"
+     y="10"
+     width="15"
+     x="158"
+     height="15"
+     style="fill-opacity:0" />
+  <g
+     id="south-active-tab-top"
+     transform="matrix(1,0,0,-1,153,1153.4)">
+    <g
+       id="g3241">
+      <rect
+         id="rect3243"
+         height="2"
+         y="20"
+         x="5"
+         width="15"
+         transform="translate(0,1027.4)"
+         style="fill-opacity:0" />
+      <rect
+         id="rect3245"
+         y="1049.4"
+         width="15"
+         x="5"
+         height="3"
+         style="fill:#58b7ee" />
+    </g>
+  </g>
+  <g
+     id="south-active-tab-topright"
+     transform="matrix(0.33333,0,0,-1,171.33,1153.4)">
+    <g
+       id="g3249">
+      <rect
+         id="rect3251"
+         transform="translate(0,1027.4)"
+         y="20"
+         width="15"
+         x="5"
+         height="2"
+         style="fill-opacity:0" />
+      <rect
+         id="rect3253"
+         height="3"
+         y="1049.4"
+         x="5"
+         width="6"
+         style="fill:#58b7ee" />
+    </g>
+  </g>
+  <g
+     id="south-active-tab-topleft"
+     transform="matrix(-0.33333,0,0,-1,159.67,1153.4)">
+    <g
+       id="g3257">
+      <rect
+         id="rect3259"
+         height="2"
+         y="20"
+         x="5"
+         width="15"
+         transform="translate(0,1027.4)"
+         style="fill-opacity:0" />
+      <rect
+         id="rect3261"
+         y="1049.4"
+         width="6"
+         x="5"
+         height="3"
+         style="fill:#58b7ee" />
+    </g>
+  </g>
+  <rect
+     id="south-active-tab-bottomleft"
+     height="5"
+     y="124"
+     x="153"
+     width="5"
+     style="fill-opacity:0" />
+  <rect
+     id="south-active-tab-bottomright"
+     y="124"
+     width="5"
+     x="173"
+     height="5"
+     style="fill-opacity:0" />
+  <rect
+     id="south-active-tab-bottom"
+     height="5"
+     y="124"
+     x="158"
+     width="15"
+     style="fill-opacity:0" />
+  <rect
+     id="south-active-tab-left"
+     height="15"
+     y="107"
+     x="153"
+     width="5"
+     style="fill-opacity:0" />
+  <rect
+     id="south-active-tab-right"
+     height="15"
+     y="107"
+     x="173"
+     width="5"
+     style="fill-opacity:0" />
+  <rect
+     id="south-active-tab-center"
+     height="15"
+     y="107"
+     x="158"
+     width="15"
+     style="fill-opacity:0" />
+  <g
+     id="west-active-tab-right"
+     transform="matrix(0,1,1,0,-912.36,43)">
+    <g
+       id="g3277">
+      <rect
+         id="rect3279"
+         transform="translate(0,1027.4)"
+         y="20"
+         width="15"
+         x="5"
+         height="2"
+         style="fill-opacity:0" />
+      <rect
+         id="rect3281"
+         height="3"
+         y="1049.4"
+         x="5"
+         width="15"
+         style="fill:#58b7ee" />
+    </g>
+  </g>
+  <g
+     id="west-active-tab-bottomright"
+     transform="matrix(0,0.33333,1,0,-912.36,61.333)">
+    <g
+       id="g3285">
+      <rect
+         id="rect3287"
+         height="2"
+         y="20"
+         x="5"
+         width="15"
+         transform="translate(0,1027.4)"
+         style="fill-opacity:0" />
+      <rect
+         id="rect3289"
+         y="1049.4"
+         width="6"
+         x="5"
+         height="3"
+         style="fill:#58b7ee" />
+    </g>
+  </g>
+  <g
+     id="west-active-tab-topright"
+     transform="matrix(0,-0.33333,1,0,-912.36,49.667)">
+    <g
+       id="g3293">
+      <rect
+         id="rect3295"
+         transform="translate(0,1027.4)"
+         y="20"
+         width="15"
+         x="5"
+         height="2"
+         style="fill-opacity:0" />
+      <rect
+         id="rect3297"
+         height="3"
+         y="1049.4"
+         x="5"
+         width="6"
+         style="fill:#58b7ee" />
+    </g>
+  </g>
+  <rect
+     id="west-active-tab-topleft"
+     x="43"
+     height="5"
+     y="115"
+     width="5"
+     transform="matrix(0,1,1,0,0,0)"
+     style="fill-opacity:0" />
+  <rect
+     id="west-active-tab-bottomleft"
+     height="5"
+     y="115"
+     x="63"
+     width="5"
+     transform="matrix(0,1,1,0,0,0)"
+     style="fill-opacity:0" />
+  <path
+     id="west-active-tab-left"
+     d="m 115,48 v 15 h 5 V 48 Z"
+     inkscape:connector-curvature="0"
+     style="fill-opacity:0" />
+  <rect
+     id="west-active-tab-top"
+     x="43"
+     height="15"
+     y="120"
+     width="5"
+     transform="matrix(0,1,1,0,0,0)"
+     style="fill-opacity:0" />
+  <rect
+     id="west-active-tab-bottom"
+     x="63"
+     height="15"
+     y="120"
+     width="5"
+     transform="matrix(0,1,1,0,0,0)"
+     style="fill-opacity:0" />
+  <rect
+     id="west-active-tab-center"
+     x="48"
+     height="15"
+     y="120"
+     width="15"
+     transform="matrix(0,1,1,0,0,0)"
+     style="fill-opacity:0" />
+  <g
+     id="east-active-tab-left"
+     transform="rotate(90,599.2,642.2)">
+    <g
+       id="g3351">
+      <rect
+         id="rect3353"
+         height="2"
+         y="20"
+         x="5"
+         width="15"
+         transform="translate(0,1027.4)"
+         style="fill-opacity:0" />
+      <rect
+         id="rect3355"
+         y="1049.4"
+         width="15"
+         x="5"
+         height="3"
+         style="fill:#58b7ee" />
+    </g>
+  </g>
+  <g
+     id="east-active-tab-bottomleft"
+     transform="matrix(0,0.33333,-1,0,1241.4,61.333)">
+    <g
+       id="g3359">
+      <rect
+         id="rect3361"
+         transform="translate(0,1027.4)"
+         y="20"
+         width="15"
+         x="5"
+         height="2"
+         style="fill-opacity:0" />
+      <rect
+         id="rect3363"
+         height="3"
+         y="1049.4"
+         x="5"
+         width="6"
+         style="fill:#58b7ee" />
+    </g>
+  </g>
+  <g
+     id="east-active-tab-topleft"
+     transform="matrix(0,-0.33333,-1,0,1241.4,49.667)">
+    <g
+       id="g3367">
+      <rect
+         id="rect3369"
+         height="2"
+         y="20"
+         x="5"
+         width="15"
+         transform="translate(0,1027.4)"
+         style="fill-opacity:0" />
+      <rect
+         id="rect3371"
+         y="1049.4"
+         width="6"
+         x="5"
+         height="3"
+         style="fill:#58b7ee" />
+    </g>
+  </g>
+  <rect
+     id="east-active-tab-topright"
+     transform="rotate(90)"
+     height="5"
+     y="-214"
+     x="43"
+     width="5"
+     style="fill-opacity:0" />
+  <rect
+     id="east-active-tab-bottomright"
+     transform="rotate(90)"
+     y="-214"
+     width="5"
+     x="63"
+     height="5"
+     style="fill-opacity:0" />
+  <rect
+     id="east-active-tab-right"
+     transform="rotate(90)"
+     height="5"
+     y="-214"
+     x="48"
+     width="15"
+     style="fill-opacity:0" />
+  <rect
+     id="east-active-tab-top"
+     transform="rotate(90)"
+     height="15"
+     y="-209"
+     x="43"
+     width="5"
+     style="fill-opacity:0" />
+  <rect
+     id="east-active-tab-bottom"
+     transform="rotate(90)"
+     height="15"
+     y="-209"
+     x="63"
+     width="5"
+     style="fill-opacity:0" />
+  <rect
+     id="east-active-tab-center"
+     transform="rotate(90)"
+     height="15"
+     y="-209"
+     x="48"
+     width="15"
+     style="fill-opacity:0" />
+</svg>
