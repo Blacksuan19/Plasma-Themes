@@ -14,15 +14,15 @@ half transparent rounded corners shadowed macOS looking like theme
 
 Desktop:
 
-![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/)
+![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/Aex%20Nomad/Screenshots/Screenshot_20180108_211103.png)
 
 panel and notifications:
 
-![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/)
+![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/Aex%20Nomad/Screenshots/Screenshot_20180108_211222.png)
 
 drop down:
 
-![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/)
+![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/Aex%20Nomad/Screenshots/Screenshot_20180108_211351.png)
 
 
 ##### Credit:
