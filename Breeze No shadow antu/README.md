@@ -34,7 +34,7 @@ Simple Menu:
 
 ## LICENSE: 
 
->> licensed under GNU's GPL 3, see LICENSE file for more
+> licensed under GNU's GPL 3, see LICENSE file for more
 
 
 
