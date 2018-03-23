@@ -38,7 +38,7 @@ Simple Menu:
 
 ## Licensing: 
 
-> licensed under GNU's GPL 3, see LICENSE file for more
+> licensed under GNU's GPL 3, see [LICENSE](https://github.com/Blacksuan19/Plasma-Themes/blob/master/LICENSE) for more info
 
 
 
