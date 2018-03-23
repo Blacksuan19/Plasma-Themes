@@ -1,0 +1,18 @@
+[ContrastEffect]
+contrast=0.2
+enabled=false
+intensity=2.0
+saturation=1.7
+
+[Desktop Entry]
+Name=Aex Nomad Dark
+Comment=half transparent rounded corners shadowed macOS looking like theme (Dark Version)
+X-KDE-PluginInfo-Author=Blacksuna19
+X-KDE-PluginInfo-Email=abubakaryagob@gmail.com@gmail.com
+X-KDE-PluginInfo-Name=Aex_Nomad_Dark
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=github.com/blacksuan19/Plasma-Themes
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0

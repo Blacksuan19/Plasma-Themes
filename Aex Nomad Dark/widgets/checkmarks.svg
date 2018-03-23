@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   width="36"
+   version="1.0"
+   height="16"
+   sodipodi:docname="checkmarks.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <defs
+     id="defs24" />
+  <style
+     type="text/css"
+     id="current-color-scheme">
+      .ColorScheme-Text {
+        
+        stop-
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        
+        stop-
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        
+        stop-
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      </style>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1515"
+     inkscape:window-height="970"
+     id="namedview22"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="29.17154"
+     inkscape:cx="16.122297"
+     inkscape:cy="8.260274"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="radiobutton"
+     transform="translate(0,-64)">
+    <path
+       style="fill:currentColor;fill-opacity:0.82352942"
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       d="M 7.9981,75 A 3,3 0 0 1 5,71.999 3,3 0 0 1 8.0009,69 3,3 0 0 1 11,72 3,3 0 0 1 8,75 v -3 z"
+       id="polygon7" />
+    <rect
+       style="fill-opacity:0"
+       x="0"
+       ry="1"
+       width="16"
+       height="16"
+       y="64"
+       id="rect4180" />
+  </g>
+  <g
+     transform="translate(20,-64)"
+     id="checkbox">
+    <rect
+       style="fill:none"
+       x="1"
+       ry="1"
+       width="14"
+       height="14"
+       y="65"
+       id="rect4154" />
+    <rect
+       style="fill-opacity:0"
+       x="0"
+       width="16"
+       height="16"
+       y="64"
+       id="rect4165" />
+    <polygon
+       style="fill:currentColor;fill-opacity:0.82352941"
+       class="ColorScheme-ButtonFocus"
+       transform="matrix(0.19663,0,0,0.19663,-1.8904,62.296)"
+       points="77,32.7 71,27.3 41.5,60.6 28.4,50.8 23.6,57.2 42.5,71.4 "
+       id="polygon8" />
+  </g>
+</svg>
