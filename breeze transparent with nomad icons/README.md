@@ -26,7 +26,12 @@ Simple Menu:
 
 
 
-## LICENSE: 
+
+
+
+
+
+## Licensing: 
 
 > licensed under GNU's GPL 3, see LICENSE file for more
 
