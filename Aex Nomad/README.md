@@ -25,6 +25,13 @@ drop down:
 ![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/Aex%20Nomad/Screenshots/Screenshot_20180108_211351.png)
 
 
+
+## LICENSE: 
+
+>> licensed under GNU's GPL 3, see LICENSE file for more
+
+
+
 ##### Credit:
 - nomad project for panel icons.
 - phob1an for original Aex theme.

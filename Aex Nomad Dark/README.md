@@ -14,17 +14,29 @@ half transparent rounded corners Dark shadowed macOS looking like theme
 
 Desktop:
 
-![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/Aex%20Nomad/Screenshots/Screenshot_20180108_211103.png)
+![alt text](https://raw.githubusercontent.com/Blacksuan19/Plasma-Themes/master/Aex%20Nomad%20Dark/Screenshots/Screenshot_20180324_004751.png)
 
-panel and notifications:
+Panel and Notifications:
 
-![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/Aex%20Nomad/Screenshots/Screenshot_20180108_211222.png)
+![alt text](https://raw.githubusercontent.com/Blacksuan19/Plasma-Themes/master/Aex%20Nomad%20Dark/Screenshots/Screenshot_20180324_004853.png)
 
-drop down:
+Drop down:
 
-![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/Aex%20Nomad/Screenshots/Screenshot_20180108_211351.png)
+![alt text](https://raw.githubusercontent.com/Blacksuan19/Plasma-Themes/master/Aex%20Nomad%20Dark/Screenshots/Screenshot_20180324_004934.png)
+
+Simple Menu:
+
+![alt text](https://raw.githubusercontent.com/Blacksuan19/Plasma-Themes/master/Aex%20Nomad%20Dark/Screenshots/Screenshot_20180324_005029.png)
+
+
+
+## LICENSE: 
+
+>> licensed under GNU's GPL 3, see LICENSE file for more
+
 
 
 ##### Credit:
 - nomad project for panel icons.
 - phob1an for original Aex theme.
+- Manjaro for some breath theme components 

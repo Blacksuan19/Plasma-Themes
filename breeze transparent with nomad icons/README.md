@@ -25,5 +25,13 @@ Simple Menu:
 ![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/breeze%20transparent%20with%20nomad%20icons/Screenshots/Screenshot_20180104_085645.png)
 
 
+
+## LICENSE: 
+
+>> licensed under GNU's GPL 3, see LICENSE file for more
+
+
+
 ##### Credit:
+
 - nomad project for panel icons.

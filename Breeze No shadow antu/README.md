@@ -31,6 +31,14 @@ Simple Menu:
 ![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/Breeze%20No%20shadow%20antu/Screenshots/Screenshot_20171208_163452.png)
 
 
+
+## LICENSE: 
+
+>> licensed under GNU's GPL 3, see LICENSE file for more
+
+
+
 ##### Credit:
+
 - antu icons project for panel icons.
 - murat-cileli for the theme template.
