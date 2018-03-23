@@ -5,7 +5,7 @@ half transparent rounded corners shadowed macOS looking like theme
 ## Installation:
 
 #### from source:
-- `git clone https://github.com/Madkita/Plasma-Themes.git`
+- `git clone https://github.com/Blacksuan19/Plasma-Themes.git`
 - `cd Plasma-Themes`
 - `cp -r Aex\ Nomad $HOME/.local/share/plasma/desktoptheme/`
 - go to settings > workspace theme > desktop theme and apply the theme

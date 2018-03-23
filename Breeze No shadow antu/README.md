@@ -11,7 +11,7 @@ default kde breeze theme without panel shadows and with icons from antu icon the
 
 
 #### from source:
-- `git clone https://github.com/Madkita/Plasma-Themes.git`
+- `git clone https://github.com/Blacksuan19/Plasma-Themes.git`
 - `cd Plasma-Themes`
 - `cp -r Breeze\ No\ shadow\ antu $HOME/.local/share/plasma/desktoptheme/`
 - go to settings > workspace theme > desktop theme and apply the theme
