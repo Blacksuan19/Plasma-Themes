@@ -14,15 +14,15 @@ default kde breeze theme without shadows and a lil bit of transparency and nomad
 
 Panel:
 
-![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/breeze%20transparent%20with%20nomad%20icons/Screenshots/Screenshot_20180104_085558.png)
+![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/Breeze%20Transparent%20With%20Nomad%20Icons/Screenshots/Screenshot_20180104_085558.png)
 
 Widgets:
 
-![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/breeze%20transparent%20with%20nomad%20icons/Screenshots/Screenshot_20180104_085539.png)
+![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/Breeze%20Transparent%20With%20Nomad%20Icons/Screenshots/Screenshot_20180104_085539.png)
 
 Simple Menu:
 
-![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/breeze%20transparent%20with%20nomad%20icons/Screenshots/Screenshot_20180104_085645.png)
+![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/Breeze%20Transparent%20With%20Nomad%20Icons/Screenshots/Screenshot_20180104_085645.png)
 
 
 
