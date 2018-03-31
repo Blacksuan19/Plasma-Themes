@@ -4,7 +4,10 @@ half transparent rounded corners shadowed macOS looking like theme
 
 ## Installation:
 
-#### from source:
+#### From AUR:
+- `yaourt -S plasma5-theme-aex-nomad-git`
+
+#### From source:
 - `git clone https://github.com/Blacksuan19/Plasma-Themes.git`
 - `cd Plasma-Themes`
 - `cp -r Aex\ Nomad $HOME/.local/share/plasma/desktoptheme/`
@@ -40,3 +43,4 @@ drop down:
 ##### Credit:
 - nomad project for panel icons.
 - phob1an for original Aex theme.
+- omni6 for uploading to AUR.
