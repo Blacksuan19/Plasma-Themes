@@ -10,22 +10,24 @@ default kde breeze theme without shadows and a lil bit of transparency and nomad
 #### From source:
 - `git clone https://github.com/Blacksuan19/Plasma-Themes.git`
 - `cd Plasma-Themes`
-- `cp -r breeze\ transparent\ with\ nomad\ icons $HOME/.local/share/plasma/desktoptheme/`
+- `cp -r Breeze\ Transparent\ Nomad $HOME/.local/share/plasma/desktoptheme/`
 - go to settings > workspace theme > desktop theme and apply the theme
 
 ## Screenshots:
 
-Panel:
+Desktop:
 
-![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/Breeze%20Transparent%20With%20Nomad%20Icons/Screenshots/Screenshot_20180104_085558.png)
+![alt text](https://raw.githubusercontent.com/Blacksuan19/Plasma-Themes/master/Breeze%20Transparent%20Nomad/Screenshots/Screenshot_20180618_111223.png)
 
-Widgets:
 
-![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/Breeze%20Transparent%20With%20Nomad%20Icons/Screenshots/Screenshot_20180104_085539.png)
+Panel and Notifications:
 
-Simple Menu:
+![alt text](https://raw.githubusercontent.com/Blacksuan19/Plasma-Themes/master/Breeze%20Transparent%20Nomad/Screenshots/Screenshot_20180618_111246.png)
 
-![alt text](https://raw.githubusercontent.com/Madkita/Plasma-Themes/master/Breeze%20Transparent%20With%20Nomad%20Icons/Screenshots/Screenshot_20180104_085645.png)
+
+Menu:
+
+![alt text](https://raw.githubusercontent.com/Blacksuan19/Plasma-Themes/master/Breeze%20Transparent%20Nomad/Screenshots/Screenshot_20180618_111304.png)
 
 
 

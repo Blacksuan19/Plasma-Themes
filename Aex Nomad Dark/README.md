@@ -17,19 +17,15 @@ half transparent rounded corners Dark shadowed macOS looking like theme
 
 Desktop:
 
-![alt text](https://raw.githubusercontent.com/Blacksuan19/Plasma-Themes/master/Aex%20Nomad%20Dark/Screenshots/Screenshot_20180324_013802.png)
+![alt text](https://raw.githubusercontent.com/Blacksuan19/Plasma-Themes/master/Aex%20Nomad%20Dark/Screenshots/Screenshot_20180618_105634.png)
 
 Panel and Notifications:
 
-![alt text](https://raw.githubusercontent.com/Blacksuan19/Plasma-Themes/master/Aex%20Nomad%20Dark/Screenshots/Screenshot_20180324_013842.png)
+![alt text](https://raw.githubusercontent.com/Blacksuan19/Plasma-Themes/master/Aex%20Nomad%20Dark/Screenshots/Screenshot_20180618_105701.png)
 
-Drop down:
+Menu:
 
-![alt text](https://raw.githubusercontent.com/Blacksuan19/Plasma-Themes/master/Aex%20Nomad%20Dark/Screenshots/Screenshot_20180324_013904.png)
-
-Simple Menu:
-
-![alt text](https://raw.githubusercontent.com/Blacksuan19/Plasma-Themes/master/Aex%20Nomad%20Dark/Screenshots/Screenshot_20180324_014021.png)
+![alt text](https://raw.githubusercontent.com/Blacksuan19/Plasma-Themes/master/Aex%20Nomad%20Dark/Screenshots/Screenshot_20180618_105726.png)
 
 
 
