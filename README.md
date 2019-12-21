@@ -14,7 +14,7 @@ Plasma look and feel themes i made overtime (good times)
 
 #### From AUR:
 
-- `yaourt -S plasma5-theme-aex-nomad-git`
+- `yaourt -S madkitas-plasma5-themes.git`
 
 #### From Source
 
@@ -34,4 +34,4 @@ Click on the theme folder (it doesn't bite ya know)
 
 - nomad project for panel icons.
 - phob1an for original Aex theme.
-- omni6 for uploading to AUR.
+- omni for AUR packaging.
