@@ -29,6 +29,6 @@ case $theme in
         ;;
 esac
 
-if [[ $theme < 5 ]]; then
+if [ $theme -lt 5 ]; then
     printf "Installation Complete!\nGo to settings > plasma style and select the theme"
 fi
